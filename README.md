@@ -18,5 +18,5 @@ Autovelocity ||  makes the keys click fast enough, doesnt mess with the volume b
 
 # How to use
 
-Click on Releases, there will be new releases in there coming in each week or month
-You could check out the old version of Midi.py v1.2!
+Click on Releases, there will be new releases in there coming in each week or month,
+you could check out the old version of Midi.py v1.2!
